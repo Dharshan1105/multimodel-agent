@@ -52,14 +52,14 @@ python3 main.py
 ## Project Structure
 
 multimodel-agent/
-├── main.py                    # Entry point
-├── router.py                  # LangGraph workflow
-├── state.py                   # Shared state
-├── nodes/                     # One node per capability
-├── models/                    # One client per AI model
-├── memory/                    # Memory stores
-├── outputs/                   # Generated images saved here
-└── uploads/                   # Place images here for vision mode
+├── main.py                    
+├── router.py                  
+├── state.py                   
+├── nodes/                     
+├── models/                    
+├── memory/                   
+├── outputs/                  
+└── uploads/                  
 
 ## Usage
 
