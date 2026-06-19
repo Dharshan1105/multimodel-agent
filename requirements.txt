@@ -1,0 +1,27 @@
+# Core AI orchestration
+langchain
+langgraph
+langchain-ollama
+ollama
+
+# Language and vision models
+transformers
+accelerate
+
+# Image generation
+diffusers
+torch
+torchvision
+
+# Text to speech (Phase 2 - Kokoro)
+kokoro-onnx
+sounddevice
+soundfile
+
+# Image processing
+pillow
+numpy
+
+# Utilities
+pathlib
+datetime
